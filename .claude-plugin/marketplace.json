@@ -1,5 +1,6 @@
 {
-  "name": "Leolebleis",
+  "name": "claude-meta-toolkit",
+  "description": "Tools that improve Claude Code itself -- observability, session hooks, marketplace maintenance",
   "owner": {
     "name": "Leo"
   },
