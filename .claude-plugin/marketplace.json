@@ -1,0 +1,14 @@
+{
+  "name": "Leolebleis",
+  "owner": {
+    "name": "Leo"
+  },
+  "plugins": [
+    {
+      "name": "claude-meta-toolkit",
+      "source": "./",
+      "description": "Claude Code meta-toolkit -- observability, session hooks, marketplace maintenance",
+      "version": "1.0.0"
+    }
+  ]
+}
